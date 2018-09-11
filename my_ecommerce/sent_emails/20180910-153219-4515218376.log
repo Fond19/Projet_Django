@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: aldo@gmail.com
+Date: Mon, 10 Sep 2018 15:32:19 -0000
+Message-ID: <153659353934.14509.8505152227958456176@Arnos-Mac.local>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/4zh-ef5c8397f71755e40cf2/
+
+Your username, in case you've forgotten: arno
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
